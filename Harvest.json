@@ -41,6 +41,16 @@
   },
   {
     "initialBlock": {
+      "blockName": "etfuturum:beetroots",
+      "meta": 7
+    },
+    "finalBlock": {
+      "blockName": "etfuturum:beetroots",
+      "meta": 0
+    }
+  },
+  {
+    "initialBlock": {
       "blockName": "lotr:tile.lettuce",
       "meta": 7
     },
@@ -86,6 +96,36 @@
     },
     "finalBlock": {
       "blockName": "lotr:tile.pipeweed",
+      "meta": 0
+    }
+  },
+  {
+    "initialBlock": {
+      "blockName": "lotr:tile.beetroot",
+      "meta": 7
+    },
+    "finalBlock": {
+      "blockName": "lotr:tile.beetroot",
+      "meta": 0
+    }
+  },
+  {
+    "initialBlock": {
+      "blockName": "lotr:tile.rice",
+      "meta": 7
+    },
+    "finalBlock": {
+      "blockName": "lotr:tile.rice",
+      "meta": 0
+    }
+  },
+  {
+    "initialBlock": {
+      "blockName": "lotr:tile.tea",
+      "meta": 7
+    },
+    "finalBlock": {
+      "blockName": "lotr:tile.tea",
       "meta": 0
     }
   }
